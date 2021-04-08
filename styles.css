@@ -1,0 +1,21 @@
+p:nth-child(1) {
+    color: red;
+}
+p:nth-child(2) {
+    color: green;
+}
+.container-sm {
+    width: 100%;
+    padding-right: var(--bs-gutter-x, 0.75rem);
+    padding-left: var(--bs-gutter-x, 0.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    
+@media {max-width: 993px;
+}
+div.box 1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+}

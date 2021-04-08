@@ -1,0 +1,21 @@
+spacing
+
+padding 
+p-4
+ps_4
+pe-4
+navbar
+margin 
+m-4
+ms_4
+me-4
+
+positioning display 
+colors
+bg-light 
+bg-dark 
+navbar-light
+navbar-dark 
+btn-primary 
+btn-danger
+alert-sucess
